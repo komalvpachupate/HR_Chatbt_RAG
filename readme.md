@@ -21,6 +21,7 @@ pip install -r requirements.txt
 > streamlit
 > pandas
 > langchain
+> langchain-community
 > faiss-cpu
 > sentence-transformers
 > ```
